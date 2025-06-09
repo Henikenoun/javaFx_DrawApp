@@ -1,0 +1,154 @@
+ShapeEntity{type=RECTANGLE}
+ShapeEntity{type=SQUARE}
+ShapeEntity{type=CIRCLE}
+ShapeEntity{type=SQUARE}
+ShapeEntity{type=CIRCLE}
+ShapeEntity{type=RECTANGLE}
+ShapeEntity{type=SQUARE}
+ShapeEntity{type=RECTANGLE}
+[ChangeStrategy] Strategy changed successfully
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[SQUARE] size=50.0
+[SQUARE] size=50.0
+[SQUARE] size=50.0
+[CIRCLE] radius=30.0
+[CIRCLE] radius=30.0
+[CIRCLE] radius=30.0
+[DeleteShape] Removed shape: CIRCLE at (339.0, 113.0)
+[ClearAll] All shapes have been cleared
+[ChangeStrategy] Switched to: File
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[CIRCLE] radius=30.0
+[ChangeStrategy] Switched to: File
+[ChangeStrategy] Switched to: DB
+[RECTANGLE] width=80.0, height=50.0
+[RECTANGLE] width=80.0, height=50.0
+[ChangeStrategy] Switched to: File
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[CIRCLE] radius=30.0, Color: 0x4d001aff
+[ChangeStrategy] Switched to: File
+[ChangeStrategy] Switched to: File
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[Selected shape:] SQUARE
+[Selected shape:] CIRCLE
+[CIRCLE] radius=30.0, Color: 0x000000ff
+[CIRCLE] radius=30.0, Color: 0x000000ff
+[CIRCLE] radius=30.0, Color: 0x000000ff
+[ClearAll] All shapes cleared
+[ChangeStrategy] Switched to: File
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[ClearAll] All shapes cleared
+[ChangeStrategy] Switched to: File
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0x000000ff
+[RECTANGLE] width=80.0, height=50.0, Color: 0xff0000ff
+[ClearAll] All shapes cleared
+[RECTANGLE] width=80.0, height=50.0, Color: 0xff0000ff
+[ChangeStrategy] Switched to: File
+[RECTANGLE] width=0.0, height=0.0, Color: 0x008080ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0x008080ff
+[SelectedShape] SQUARE
+[SelectedShape] CIRCLE
+[ChangeStrategy] Switched to: File
+[DeleteShape] Deleted SQUARE
+[SQUARE] size=0.0, Color: 0x008080ff
+[ClearAll] All shapes cleared
+[SelectedShape] SQUARE
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[SQUARE] size=0.0, Color: 0x008080ff
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[ClearAll] All shapes cleared
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=0.0, height=0.0, Color: 0x008080ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0x008080ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0x008080ff
+[SelectedShape] RECTANGLE
+[SelectedShape] SQUARE
+[SelectedShape] CIRCLE
+[ChangeStrategy] Switched to: File
+[ChangeStrategy] Switched to: File
+[ChangeStrategy] Switched to: File
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[SelectedShape] CIRCLE
+[CIRCLE] radius=0.0, Color: 0xff00ffff
+[CIRCLE] radius=0.0, Color: 0xff00ffff
+[CIRCLE] radius=0.0, Color: 0xff00ffff
+[ClearAll] All shapes cleared
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff00ffff
+[SelectedShape] CIRCLE
+[CIRCLE] radius=0.0, Color: 0xffff00ff
+[SelectedShape] SQUARE
+[SelectedShape] RECTANGLE
+[DeleteShape] Deleted CIRCLE
+[ClearAll] All shapes cleared
+[RECTANGLE] width=0.0, height=0.0, Color: 0xffff00ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xffff00ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xffff00ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xffff00ff
+[DeleteShape] Deleted RECTANGLE
+[DeleteShape] Deleted RECTANGLE
+[DeleteShape] Deleted RECTANGLE
+[ClearAll] All shapes cleared
+[ChangeStrategy] Switched to: File
+[RECTANGLE] width=0.0, height=0.0, Color: 0xffff00ff
+[ChangeStrategy] Switched to: File
+[SelectedShape] RECTANGLE
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff0000ff
+[RECTANGLE] width=0.0, height=0.0, Color: 0xff0000ff
+[DeleteShape] Deleted RECTANGLE
+[DeleteShape] Deleted RECTANGLE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[DeleteShape] Deleted SQUARE
+[SelectedShape] RECTANGLE
+[SelectedShape] RECTANGLE

@@ -1,0 +1,2 @@
+[LOG] Change save method to: File
+[LOG] Application closed

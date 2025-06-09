@@ -1,0 +1,13 @@
+[ChangeStrategy] Strategy changed successfully
+[CreateShape] Created shape: RECTANGLE at (368.0, 128.0)
+[CreateShape] Created shape: RECTANGLE at (198.0, 294.0)
+[CreateShape] Created shape: RECTANGLE at (208.0, 36.0)
+[CreateShape] Created shape: RECTANGLE at (150.0, 209.0)
+[CreateShape] Created shape: SQUARE at (499.0, 93.0)
+[CreateShape] Created shape: SQUARE at (410.0, 71.0)
+[CreateShape] Created shape: SQUARE at (113.0, 208.0)
+[CreateShape] Created shape: CIRCLE at (429.0, 291.0)
+[CreateShape] Created shape: CIRCLE at (337.0, 260.0)
+[CreateShape] Created shape: CIRCLE at (339.0, 113.0)
+[DeleteShape] Removed shape: CIRCLE at (339.0, 113.0)
+[ClearAll] All shapes have been cleared
